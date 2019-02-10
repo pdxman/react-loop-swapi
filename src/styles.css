@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One|Roboto:300,400,700");
+body {
+  font-family: "Roboto", sans-serif;
+}
+.App {
+  text-align: center;
+}
+
+.heading {
+  font-family: "Fjalla-one", sans-serif;
+}
+.planet-info-wrapper {
+  padding: 1em;
+}
